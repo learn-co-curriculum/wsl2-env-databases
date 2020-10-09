@@ -1,4 +1,4 @@
-# Installing databases
+# Installing databases on WSL2
 
 ## Install SQLite
 
