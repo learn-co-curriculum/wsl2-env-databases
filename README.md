@@ -12,6 +12,8 @@ development track. The default database that Ruby on Rails uses is SQLite.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0Jfs9vsApY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you were able to run those commands without any issues, continue below.
 
 ## Install Postgres
@@ -30,5 +32,7 @@ database management system called PostgreSQL.
    take some time)_
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFFX0Km0N-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you were able to run those commands without any issues, continue to the next lesson, **Configuring GitHub and Flatiron Student Portal on WSL2**.
